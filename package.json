@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ancisuce/RMVC/issues"
   },
-  "homepage": "https://github.com/Ancisuce/RMVC#readme"
+  "homepage": "https://github.com/Ancisuce/RMVC#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
